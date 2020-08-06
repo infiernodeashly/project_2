@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin:0;
+    font-family: cursive;
+    font-size: 18px;
+    line-height: 150%;
+    color:purple;
+    background-color: lightgrey;
+
+}
+
+h1 {
+    padding: 20px 0;
+    color: violet;
+    text-align: center;
+    background-color: whitesmoke;
+  
+}
+
+h2 {
+    font-size: 24px;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(206, 154, 236);
+    padding: 10px; 
+    
+}
+
+#contact {
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid; 
+    
+    }
+
+
